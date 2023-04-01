@@ -1,0 +1,6 @@
+syntax error at 10
+syntax error at 15
+syntax error at 19
+syntax error at 24
+Unrecognized token at 31
+:syntax error at 38
